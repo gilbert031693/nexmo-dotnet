@@ -7,7 +7,7 @@
   },
   {
     "action": "talk",
-    "text": "Press 1 to continue then press # and 2 for not sure followed by the hash key",
+    "text": "Press 1 to continue then press # and 2 for not sure followed ",
     "voiceName": "Amy",
     "bargeIn": false
   },
