@@ -14,6 +14,6 @@
   {
     "action": "input",
     "submitOnHash": "true",
-    "eventUrl": ["https://example.com/ivr"]
+    "eventUrl": ["https://raw.githubusercontent.com/gilbert031693/nexmo-dotnet/master/Event_Url_Record.json"]
   }
 ]
