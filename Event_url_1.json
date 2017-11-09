@@ -9,12 +9,11 @@
     "action": "talk",
     "text": "Press 1 to followed by a hash key continue and 2 to exit",
     "voiceName": "Joey",
-	"endOnKey" : "2",
+	"submitOnHash": "true",
     "bargeIn": true
   },
   {
-    "action": "input",
-    "submitOnHash": "true",
+    "action": "input",    
     "eventUrl": ["https://raw.githubusercontent.com/gilbert031693/nexmo-dotnet/master/Event_Url_Record.json"]
   }
 ]
