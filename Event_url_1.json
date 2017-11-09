@@ -3,15 +3,11 @@
     "action": "talk",
     "text": "Welcome to a Voice API I V R. ",
     "voiceName": "Joey",
-    "bargeIn": true
-  },
-  {
-    "action": "input",   
-	"endOnKey": "",
-  }
+    "bargeIn": false
+  },  
   {
     "action": "talk",
-    "text": "Press 1 to followed by a hash key continue and 2 to exit",
+    "text": "this is joey the great farmer",
     "voiceName": "Joey",
 	"submitOnHash": "true",
     "bargeIn": true
