@@ -7,7 +7,7 @@
   {
       "action": "record",
       "eventUrl": [
-          "C:\Users\gilbert_salvador\Desktop\VOICERECORD"
+          "C:\\Users\\gilbert_salvador\\Desktop\\VOICERECORD"
       ],
       "endOnSilence": "3",
       "endOnKey" : "#",
