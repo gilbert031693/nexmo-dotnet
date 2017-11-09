@@ -3,10 +3,11 @@
     "action": "talk",
     "text": "Welcome to a Voice API I V R. ",
     "voiceName": "Joey",
-    "bargeIn": false
+    "bargeIn": true
   },
   {
-    "action": "input",     
+    "action": "input",   
+	"endOnKey": "",
   }
   {
     "action": "talk",
