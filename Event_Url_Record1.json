@@ -7,7 +7,7 @@
   {
       "action": "record",
       "eventUrl": [
-          "https://github.com/gilbert031693/nexmo-dotnet.git"
+          "C:\Users\gilbert_salvador\Desktop\VOICERECORD"
       ],
       "endOnSilence": "3",
       "endOnKey" : "#",
