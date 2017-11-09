@@ -1,0 +1,19 @@
+[
+  {
+    "action": "talk",
+    "text": "Welcome to a Voice API I V R. ",
+    "voiceName": "Amy",
+    "bargeIn": false
+  },
+  {
+    "action": "talk",
+    "text": "Press 1 to continue and 2 to exit",
+    "voiceName": "Amy",
+	"endOnKey" : "2",
+    "bargeIn": true
+  },
+  {
+    "action": "input",
+    "eventUrl": ["https://raw.githubusercontent.com/gilbert031693/nexmo-dotnet/master/Event_Url_Record.json"]
+  }
+]
