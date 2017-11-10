@@ -7,15 +7,16 @@
   },
   {
     "action": "talk",
-    "text": "Press 1 to continue and 2 for not sure",
-    "voiceName": "Amy",	
+    "text": "Press 1 for maybe and 2 for not sure followed by the hash key",
+    "voiceName": "Amy",
     "bargeIn": true
   },
   {
-    "action": "input",	
-	"submitOnHash": "true",
+    "action": "input",
+    "submitOnHash": "true",
     "eventUrl": ["https://raw.githubusercontent.com/gilbert031693/nexmo-dotnet/master/Event_Url_Record.json"]
-	
   }
-  
 ]
+
+
+
