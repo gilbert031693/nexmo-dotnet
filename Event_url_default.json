@@ -10,6 +10,7 @@
     "action": "talk",
     "text": "Press 1 followed by the hash key to continue",
     "voiceName": "Amy",
+	"timeOut": "3",
     "bargeIn": true
   },
   {
