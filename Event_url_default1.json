@@ -17,7 +17,7 @@
     "action": "input",
     "submitOnHash": "true",
 	"eventMethod": "POST",
-    "eventUrl": ["https://raw.githubusercontent.com/gilbert031693/nexmo-dotnet/master/Event_Url_Record.json"]
+    "eventUrl": ["https://requestb.in/15v4zh11"]
   }
 ]
 
