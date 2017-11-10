@@ -13,7 +13,7 @@
   },
   {
     "action": "input",	
-	"submitOnHash": "1",
+	"submitOnHash": "true",
     "eventUrl": ["https://raw.githubusercontent.com/gilbert031693/nexmo-dotnet/master/Event_Url_Record.json"]
 	
   }
