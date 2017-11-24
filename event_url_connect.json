@@ -1,9 +1,9 @@
  "action": "connect",
-        "eventUrl": ["https://raw.githubusercontent.com/gilbert031693/nexmo-dotnet/master/Event_url_default1.json"],
+        "eventUrl": ["https://example.com/events"],
         "from": "6322312188",
         "endpoint": [
           {
             "type": "phone",
-            "number": "639266730727"
+            "number": "639175201698"
 			}
 			
