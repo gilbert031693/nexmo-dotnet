@@ -1,0 +1,16 @@
+[
+  {
+    "action": "talk",
+    "text": "Hi there wonderful evening. ",
+    "voiceName": "Joey",
+    "bargeIn": false
+  },  
+  {
+    "action": "talk",
+    "text": "Please Enter your 10 digit card number",
+    "voiceName": "Joey",
+	"submitOnHash": "true",
+    "bargeIn": true
+  }
+  
+]
