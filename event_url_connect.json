@@ -1,9 +1,9 @@
  "action": "connect",
-        "eventUrl": ["https://example.com/events"],
+        "eventUrl": ["https://dashboard.nexmo.com/voice/your-applications/8c0b60cf-3b9c-4c16-9696-8e18f49f8ef1"],
         "from": "6322312188",
+		"limit": "7200",
         "endpoint": [
           {
-            "type": "phone",
-            "number": "639955154983"
+            "number": "639266730727"
 			}
 			
