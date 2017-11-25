@@ -11,9 +11,18 @@
     "endpoint": [
       {
         "type": "phone",
-        "number": "639266730727",
+        "number": "639272303955",
         "dtmfAnswer": "2p02p"
       }
     ]
+  },
+  {
+  [
+  {
+    "action": "conversation",
+    "name": "nexmo-conference-standard",
+    "record": "false"
   }
+]
+}
 ]
