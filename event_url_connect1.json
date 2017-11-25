@@ -1,0 +1,20 @@
+[
+  {
+    "action": "talk",
+    "text": "Please wait while we connect you"
+  },
+  {
+    "action": "connect",
+    "eventUrl": ["https://requestb.in/10mviu81"],
+    "timeout": "60",
+	"limit": "7200",
+    "from": "6322312188",
+    "endpoint": [
+      {
+        "type": "phone",
+        "number": "639266730727",
+        "dtmfAnswer": "2p02p"
+      }
+    ]
+  }
+]
