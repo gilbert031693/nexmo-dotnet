@@ -17,12 +17,8 @@
     ]
   },
   {
-  [
-  {
     "action": "conversation",
     "name": "nexmo-conference-standard",
     "record": "false"
   }
-]
-}
 ]
