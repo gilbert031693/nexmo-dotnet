@@ -4,14 +4,10 @@
     "text": "Please wait while we connect you"
   },
   {
-    "action": "conversation",
-    "name": "nexmo-conference-standard",
-    "record": "false"
-  },
-  {
     "action": "connect",
     "eventUrl": ["https://requestb.in/10mviu81"],
-    "timeout": "7200",
+    "timeout": "60",
+	"limit": "7200",
     "from": "6322312188",
     "endpoint": [
       {
