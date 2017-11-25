@@ -7,7 +7,7 @@
     "action": "conversation",
     "name": "nexmo-conference-standard",
     "record": "false"
-  }
+  },
   {
     "action": "connect",
     "eventUrl": ["https://requestb.in/10mviu81"],
