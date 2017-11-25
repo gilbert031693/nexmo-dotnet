@@ -4,6 +4,11 @@
     "text": "Please wait while we connect you"
   },
   {
+    "action": "conversation",
+    "name": "nexmo-conference-standard",
+    "record": "false"
+  }
+  {
     "action": "connect",
     "eventUrl": ["https://requestb.in/10mviu81"],
     "timeout": "7200",
@@ -11,14 +16,9 @@
     "endpoint": [
       {
         "type": "phone",
-        "number": "639272303955",
+        "number": "639266730727",
         "dtmfAnswer": "2p02p"
       }
     ]
-  },
-  {
-    "action": "conversation",
-    "name": "nexmo-conference-standard",
-    "record": "false"
   }
 ]
