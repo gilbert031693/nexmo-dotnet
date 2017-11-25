@@ -12,8 +12,7 @@
     "endpoint": [
       {
         "type": "phone",
-        "number": "639266730727",
-        "dtmfAnswer": "2p02p"
+        "number": "639266730727"
       }
     ]
   }
