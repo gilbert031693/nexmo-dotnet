@@ -5,7 +5,7 @@
   },
   {
     "action": "connect",
-    "eventUrl": ["https://api.maxicare.com.ph/CommStackAPI/V13/Event/Call"],
+    "eventUrl": ["https://requestb.in/13ufked1"],
     "timeout": "60",
 	"limit": "7200",
     "from": "6322312188",
