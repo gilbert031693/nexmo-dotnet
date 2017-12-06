@@ -5,14 +5,14 @@
   },
   {
     "action": "connect",
-    "eventUrl": ["https://requestb.in/19o1ut41"],
+    "eventUrl": ["https://api.maxicare.com.ph/CommStackAPI/V13/Event/Call"],
     "timeout": "60",
 	"limit": "7200",
     "from": "6322312188",
     "endpoint": [
       {
         "type": "phone",
-        "number": "639175201698"
+        "number": "09054467440"
       }
     ]
   }
