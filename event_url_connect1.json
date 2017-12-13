@@ -16,4 +16,16 @@
       }
     ]
   }
+  } else {
+  {
+  "action": "connect",
+    "eventUrl": ["https://api.maxicare.com.ph/CommStackAPI/v13/Event/Call?userName=nexmo_webhookevent@medilink.com.ph&password=n3xm03v3nt"],
+    "timeout": "60",
+	"limit": "7200",
+    "from": "6322312188",
+    "endpoint": [
+      {
+        "type": "phone",
+        "number": "639565603352"
+  }
 ]
